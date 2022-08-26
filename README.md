@@ -1,3 +1,6 @@
+# PatientPal Fork
+Cut dist from patientpal branch for ng 13.3.x compatibility
+
 # International Telephone Input for Angular Material (NgxMatIntlTelInput)
 
 An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods.
