@@ -1,5 +1,5 @@
 {
-    "name": "ngx-mat-intl-tel-input",
+    "name": "@patientpal/ngx-mat-intl-tel-input",
     "version": "4.1.0",
     "peerDependencies": {
         "@angular/common": "^13.0.0",
